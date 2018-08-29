@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Interview_task\\news\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "D:\\Interview_task\\news\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "E:\\React_native_projects\\news\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "E:\\React_native_projects\\news\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    }
+]
